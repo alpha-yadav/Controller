@@ -1,2 +1,2 @@
 # Controller
- remotely control other devices
+ Remotely control other devices
