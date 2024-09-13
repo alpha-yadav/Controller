@@ -1,2 +1,2 @@
 # Controller
- Remotely control other devices
+ Remotely control other devices by web or python
